@@ -13,7 +13,7 @@ f"""
 <tr>
   <th scope="row">{84-i}</th>
   <td>
-    <a {link}>{title}</a><br>
+    <a {link} target="_blank">{title}</a><br>
     {authors}<br>
     <span class="font-weight-bold">{journal}</span>{paper_spec}
   </td>
