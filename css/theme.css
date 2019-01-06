@@ -1,0 +1,120 @@
+html {
+  margin-top: 64px;
+}
+
+
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: -64px;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.carousel-item {
+  height: 100%;
+  width: 100vw;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn-ecm-outline {
+  color: rgb(28,159,242);
+  background-color: transparent;
+  background-image: none;
+  border-color: rgb(28,159,242);
+}
+
+
+.btn-outline-ecm {
+  color: rgb(28,159,242);
+  background-color: transparent;
+  background-image: none;
+  border-color: rgb(28,159,242);
+}
+
+.btn-outline-ecm:hover {
+  color: #fff;
+  background-color: rgb(28,159,242);
+  border-color: rgb(28,159,242);
+}
+
+.title-font {
+    font-size: 11px;
+}
+
+.news-bar {
+    width: 100%;
+}
+
+.bg-semitransparent {
+   background-color: rgba(52, 58, 64, 0.5);
+}
+
+.ecm-primary {
+    color: rgb(28,159,242);
+}
+
+.text-smaller {
+    font-size: smaller;
+}
+
+.bg-lessdark {
+    background-color: rgb(77, 78, 79);
+}
+
+.team-photo {
+  width:100px;
+  height:100px;
+  display:block;
+  border-radius:50%;
+  border: 1px solid #6c757d;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team-photo-lg {
+  width:200px;
+  height:200px;
+  display:block;
+  border-radius:50%;
+  border: 1px solid #6c757d;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team-photo-sm {
+  width:50px;
+  height:50px;
+  display:block;
+  border-radius:50%;
+  border: 1px solid #6c757d;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.flex-width-equal {
+  flex-basis: 0 !important;
+}
+
+.pub-highlight-container {
+    background-size: cover;
+}
+
+
+
