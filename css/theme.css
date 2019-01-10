@@ -124,5 +124,10 @@ html {
     visibility: hidden;
 }
 
+a.ecm-primary:hover {
+  color:  #6ec2f7;
+
+}
+
 
 
