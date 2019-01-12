@@ -89,6 +89,17 @@ html {
   width:200px;
   height:200px;
   display:block;
+  border: 1px solid #6c757d;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team-photo-lg-rounded {
+  width:200px;
+  height:200px;
+  display:block;
   border-radius:50%;
   border: 1px solid #6c757d;
   background-position-y: center;
