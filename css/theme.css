@@ -140,5 +140,10 @@ a.ecm-primary:hover {
 
 }
 
+.flex-even {
+  flex: 1;
+  flex-shrink: 0;
+}
+
 
 
