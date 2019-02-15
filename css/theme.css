@@ -145,5 +145,14 @@ a.ecm-primary:hover {
   flex-shrink: 0;
 }
 
+.gallery-item {
+  display: block;
+  width: 75%;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
 
 
