@@ -2,15 +2,17 @@ stories = []
 # A story is a dictionary: {title=str, date=str, body=[str]}
 with open('news.txt') as news_file:
     stage = 0
-    story = {'body' : []}
+    story = {'body' : [], 'imgs' : []}
     for line in news_file:
         if line.isspace() or 'END NEWS' in line:
             stories.append(story)
-            story = {'body' : []}
+            story = {'body' : [], 'imgs' : []}
         elif 'title' not in story:
             story['title'] = line.rstrip()
         elif 'date' not in story:
             story['date'] = line.rstrip()
+        elif 'IMAGE:' in line:
+            story['imgs'].append(line.replace('IMAGE:','').rstrip().lstrip()) 
         else:
             story['body'].append(line.rstrip())
 
@@ -75,10 +77,13 @@ with open('../news/index.html') as news_html:
                 body_str = ''
                 for item in story['body']:
                     body_str += f'<p><small>{item}</small></p>\n'
+                img_links_str = ''
+                for img in story['imgs']:
+                    img_links_str += f'<a href="{img}"><i class="fas fa-camera"></i></a>'
                 new_news_html += f"""
 <tr><td>
     {anchor_str}
-    <h6 class="mb-1">{story['title']}</h6>
+    <h6 class="mb-1">{story['title']} {img_links_str}</h6> 
     <div class='font-weight-light'>{story['date']}</div>
     {body_str}
 </td></tr>
