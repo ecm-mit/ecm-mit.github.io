@@ -1,19 +1,19 @@
-A low ride on processing temperature for fast lithium conduction in garnet solid-state battery films
 https://www.nature.com/articles/s41560-019-0384-4
+A low ride on processing temperature for fast lithium conduction in garnet solid-state battery films
 R. Pfenninger, M. Struzik, I. Garbayo, E. Stilp, J.L.M. Rupp 
 Nature Energy
 4, 475–4832019
 2019
 
-In Situ Method Correlating Raman Vibrational Characteristics to Chemical Expansion via Oxygen Nonstoichiometry of Perovskite Thin Films
 NO LINK
+In Situ Method Correlating Raman Vibrational Characteristics to Chemical Expansion via Oxygen Nonstoichiometry of Perovskite Thin Films
 E. Sediva, T. Defferriere, N.H. Perry, H.L. Tuller, J.L.M. Rupp
 Advanced Materials
 in press
 2019
 
-Modifying La0.6Sr0.4MnO3 Perovskites with Cr Incorporation for Fast Isothermal CO2-Splitting Kinetics in Solar-Driven Thermochemical Cycles
 NO LINK
+Modifying La0.6Sr0.4MnO3 Perovskites with Cr Incorporation for Fast Isothermal CO2-Splitting Kinetics in Solar-Driven Thermochemical Cycles
 A.J. Carrillo, A.H. Bork, T. Moser, E. Sediva, Z.D. Hood, J.L.M. Rupp 
 Advanced Energy Materials
 in press
@@ -26,8 +26,8 @@ Nano Energy
 59, 674-682
 2019
 
-A Simple and Fast Electrochemical CO2 Sensor based on Li7La3Zr2O12 for Environmental Monitoring
 https://onlinelibrary.wiley.com/doi/10.1002/adma.201804098
+A Simple and Fast Electrochemical CO2 Sensor based on Li7La3Zr2O12 for Environmental Monitoring
 M. Struzik, I. Garbayo, R. Pfenninger, J.L.M. Rupp
 Advanced Materials
 30, 1804098 
@@ -130,7 +130,7 @@ Effect of dopant-host ionic radii mismatch on acceptor doped barium zirconate mi
 E. Gilardi, E. Fabbri, L. Bi, J.L.M. Rupp, T. Lippert, D. Pergolesi, E. Traversa
 Journal of Physical Chemistry C
 121, 18, 9739–9747 
-2017.
+2017
   
 https://link.springer.com/article/10.1007/s10832-017-0079-9
 Boosting the Electrochemical Performance of Li-Garnet based All-Solid-State Li-ion Batteries
@@ -203,7 +203,6 @@ Q. Imtiaz, P.M. Abdala, A. Kierzkowska, W. van Beek, S. Schweiger, J.L.M. Rupp, 
 Physical Chemistry Chemical Physics
 18, 17, 12278-12288 
 2016
-
 
 http://pubs.acs.org/doi/abs/10.1021/acsnano.5b02752
 Uncovering Two Competing Switching Mechanisms for Epitaxial and Ultra-Thin Strontium Titanate-Based Resistive Switching Bits
@@ -626,3 +625,4 @@ L.J. Gauckler, D. Beckel, B.E. Buerger, E. Jud, U.P. Mücke, M. Prestat, J.L.M. 
 Chimia
 58 (12), 837 
 2004
+END ARTICLES
