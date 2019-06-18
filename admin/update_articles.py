@@ -1,4 +1,5 @@
-
+import os.path
+from os import path
 
 articles = []
 # Keys: {link, title, authors, journal, pages, year, note}
@@ -66,11 +67,15 @@ with open('../pubs/articles/index.html') as articles_html:
                     if 'note' in article:
                         notes_str = f"""</p><div class="small text-muted">{article['note']}</div>"""
 
+                    pdf_str = ""
+                    if path.exists(f"../pubs/articles/{len(articles)-i}.pdf"):
+                        pdf_str = f"""<a href="{len(articles)-1}.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>"""
+
                     new_articles_html += f"""
 <tr><th scope="row">{len(articles) - i}</th><td>
     {title_str}<br>
     {article['authors']}<br>
-    <span class="font-weight-bold">{article['journal']}</span>, {article['pages']} ({article['year']})
+    <span class="font-weight-bold">{article['journal']}</span>, {article['pages']} ({article['year']}) {pdf_str}
     {notes_str}
 </td></tr>
 """

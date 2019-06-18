@@ -139,7 +139,7 @@ Journal of Electroceramics
 38, 2-4, 182-188 
 2017
   
-https://link.springer.comarticle/10.1007/s10832-017-0108-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst
+https://link.springer.com/article/10.1007/s10832-017-0108-8
 Editorial for the JECR Special issue on resistive switching: Oxide materials, mechanisms, and devices
 J.L.M. Rupp, I. Valov, D. Ielmini
 Journal of Electroceramics
@@ -345,14 +345,14 @@ Solid State Ionics
 207, 1
 2012
   
-http://jap.aip.org/resource/1/japiau/v112/i5/p054512_s1
+https://aip.scitation.org/doi/full/10.1063/1.3663529
 Multi-functional properties in CaCu3Ti4O12 thin films
 A.A. Felix, J.L.M. Rupp, J.A. Varela, M.A. Orlandi
 J. Appl Physics
 112, 054512
 2012
   
-http://apl.aip.org/resource/1/applab/v100/i1/p012101_s1
+https://aip.scitation.org/doi/10.1063/1.3663529
 Electric-Field-Induced I-V Characteristics in Electronic Conducting Perovskite Thin Films
 J.L.M. Rupp, P. Reinhard, Ryll T., D. Pergolesi, R. Tölke, E. Travsersa
 Applied Physics Letters
