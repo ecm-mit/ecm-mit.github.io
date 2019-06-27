@@ -5,18 +5,18 @@ Nature Energy
 4, 475–4832019
 2019
 
-NO LINK
+https://doi.org/10.1002/adma.201902493
 In Situ Method Correlating Raman Vibrational Characteristics to Chemical Expansion via Oxygen Nonstoichiometry of Perovskite Thin Films
 E. Sediva, T. Defferriere, N.H. Perry, H.L. Tuller, J.L.M. Rupp
 Advanced Materials
-in press
+1902493
 2019
 
-NO LINK
+https://doi.org/10.1002/aenm.201803886
 Modifying La0.6Sr0.4MnO3 Perovskites with Cr Incorporation for Fast Isothermal CO2-Splitting Kinetics in Solar-Driven Thermochemical Cycles
 A.J. Carrillo, A.H. Bork, T. Moser, E. Sediva, Z.D. Hood, J.L.M. Rupp 
 Advanced Energy Materials
-in press
+1803886
 2019
  
 https://www.sciencedirect.com/science/article/pii/S2211285519302058
