@@ -55,7 +55,7 @@ with open('../index.html') as home_html:
         if not in_news_bar:
             new_home_html += line
 
-with open('../index_test.html', 'w') as home_html:
+with open('../index.html', 'w') as home_html:
     home_html.write(new_home_html)
 
 
