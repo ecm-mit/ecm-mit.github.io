@@ -4,7 +4,7 @@ R. Pfenninger, M. Struzik, I. Garbayo, E. Stilp, J.L.M. Rupp
 Nature Energy
 4, 475–4832019
 2019
-Press: <a href="https://mrl.mit.edu/index.php/component/k2/238-enriching-solid-state-batteries" target="_blank">MRL News</a>
+Press: <a href="http://news.mit.edu/2019/enriching-solid-state-batteries-jennifer-rupp-mit-0711" target="_blank">MIT News</a>, <a href="https://mrl.mit.edu/index.php/component/k2/238-enriching-solid-state-batteries" target="_blank">MRL News</a>
 
 https://doi.org/10.1002/adma.201902493
 In Situ Method Correlating Raman Vibrational Characteristics to Chemical Expansion via Oxygen Nonstoichiometry of Perovskite Thin Films
