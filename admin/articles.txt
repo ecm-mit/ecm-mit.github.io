@@ -27,11 +27,18 @@ Nano Energy
 59, 674-682
 2019
 
-NO LINK
+https://pubs.rsc.org/en/Content/ArticleLanding/2019/TA/C9TA04999A#!divAbstract
+Building Better All-Solid-State Batteries with Li-Garnet Solid Electrolytes and Metalloid Anodes    
+S. Afyon,  K.V. Kravchyk,  S. Wang,  J. van den Broek,  C. Hänsel,  M.V. Kovalenko, J.L.M. Rupp
+Journal of Materials Chemistry A
+in press
+2019
+
+https://www.sciencedirect.com/science/article/pii/S1359645419304628?dgcid=rss_sd_all
 Thermodynamic Assessment of the Solar-to-fuel Performance of La0.6Sr0.4Mn1-yCryO3d Perovskite Solid Solution Series
 A. Bork, A. Carillo del Teso, E. Povoden, J.L.M Rupp
 Acta Materialia
-in press
+178, 163-172
 2019
 
 https://onlinelibrary.wiley.com/doi/10.1002/adma.201804098
