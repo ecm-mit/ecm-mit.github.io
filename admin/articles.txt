@@ -6,11 +6,11 @@ in press
 2020
 *Joint first authorship
 
-NO LINK
+https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201907465
 Lithium-Battery Anode Gains Additional Functionality for Neuromorphic Computing through Metal-Insulator Phase Separation
 J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K. Kim, K.M. Mullin, R. Pfenninger, M. Z. Bazant, J.L.M Rupp
 Advanced Materials
-in press
+1907465
 2020
 
 https://www.nature.com/articles/s41560-019-0384-4
