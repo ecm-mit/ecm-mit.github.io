@@ -2,7 +2,7 @@ https://www.nature.com/articles/s41560-020-0597-6
 High energy and long cycles
 K.J. Kim, J.J. Henricher, J.L.M. Rupp
 Nature Energy
-in press
+News & Views
 2020 
 
 https://www.doi.org/10.1039/C9CS00588A
@@ -18,6 +18,13 @@ Lithium-Battery Anode Gains Additional Functionality for Neuromorphic Computing 
 J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K. Kim, K.M. Mullin, R. Pfenninger, M. Z. Bazant, J.L.M Rupp
 Advanced Materials
 1907465
+2020
+
+NO LINK
+La0.6Sr0.4Cr0.8Co0.2O3 perovskite decorated with exsolved Co nanoparticles for stable CO2 splitting and syngas production
+A. Carrillo, K.J. Kim, Z. Hood, A.H. Bork, J.L.M. Rupp
+ACS Applied Energy Materials
+in press
 2020
 
 https://www.nature.com/articles/s41560-019-0384-4
