@@ -23,7 +23,7 @@ Advanced Materials
 NO LINK
 Roadmap on Emerging Hardware and Technology for Machine Learning
 K. Berggren, Q. Xia, K.K. Likharev, D.B. Strukov, H. Jiang, T. Mikolajick, D. Querlioz, M. Salinga, J.R. Erickson, S. Pi, F. Xiong, P. Li, C. Li, Y. Chen, S. Xiong, B.D. Hoskins, M.W. Daniels, A. Madhavan, J.A. Liddle, J.J. McClelland, Y. Yang, J.L.M. Rupp, S.S. Nonnenmann, K. Cheng, N. Gong, M.A. Lastras-Montaño, A.A. Talin, A. Salleo, B.J. Shastri, T. Ferriera de Lima, P. Prucnal, A.N. Tait, Y. Shen, H. Meng, C. Roques-Carmes, Z. Cheng, H. Bhaskaran, D. Jariwala, H. Wang, J.M. Shainline, K. Segall, J.J. Yang, K. Roy, S. Datta, A. Raychowdhury
-Nanotechnology
+Nanoscale
 in press
 2020
 
