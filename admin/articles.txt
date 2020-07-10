@@ -34,7 +34,7 @@ ACS Applied Energy Materials
 3, 5, 4569–4579
 2020
 
-NO LINK
+https://pubs.acs.org/doi/10.1021/acsami.0c04276?ref=pdf
 Oxygen Exchange in Dual-phase La0.65Sr0.35MnO3-CeO2 Composites for Solar Thermochemical Fuel Production
 A.H. Bork, A.J. Carrillo, Z. Hood, B. Yildiz, J.L.M. Rupp
 ACS Applied Materials & Interfaces
