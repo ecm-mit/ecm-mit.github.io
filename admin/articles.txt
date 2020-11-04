@@ -1,3 +1,10 @@
+https://www.doi.org/10.1039/d0ee02062a
+All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
+K.J. Kim, J.L.M. Rupp
+Energy & Environmental Science
+Advance Article
+2020
+
 https://www.nature.com/articles/s41560-020-0597-6
 High energy and long cycles
 K.J. Kim, J.J. Hinricher, J.L.M. Rupp
@@ -18,6 +25,13 @@ Lithium-Battery Anode Gains Additional Functionality for Neuromorphic Computing 
 J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K.J. Kim, K.M. Mullin, R. Pfenninger, M. Z. Bazant, J.L.M Rupp
 Advanced Materials
 1907465
+2020
+
+NO LINK
+Text Mining for Processing Conditions of Solid-State Battery Electrolytes
+R. Mahbub, K. Huang, Z. Jensen, Z.D. Hood, J.L.M. Rupp
+Electrochemistry Communications
+in press
 2020
 
 https://doi.org/10.1088/1361-6528/aba70f
