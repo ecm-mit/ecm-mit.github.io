@@ -1,8 +1,9 @@
 import os.path
 from os import path
+import os
 
 articles = []
-# Keys: {link, title, authors, journal, pages, year, note}
+# Keys: {doi, title, authors, journal, pages, year, note}
 # All elements are strings
 # note is optional
 with open('articles.txt') as articles_file:
@@ -11,10 +12,10 @@ with open('articles.txt') as articles_file:
         if line.isspace() or 'END ARTICLES' in line:
             articles.append(article)
             article = {}
-        elif 'link' not in article:
-            article['link'] = line.rstrip()
-            if article['link'] == 'NO LINK':
-                article['link'] = None
+        elif 'doi' not in article:
+            article['doi'] = line.rstrip()
+            if article['doi'] == 'NO DOI':
+                article['doi'] = None
         elif 'title' not in article:
             article['title'] = line.rstrip()
         elif 'authors' not in article:
@@ -58,8 +59,8 @@ with open('../pubs/articles/index.html') as articles_html:
                     article = articles[i]
 
                     title_str = ''
-                    if article['link']:
-                        title_str = f"""<p><a href="{article['link']}" target="_blank">{article['title']}</a>"""
+                    if article['doi']:
+                        title_str = f"""<p><a href="http://doi.org/{article['doi']}" target="_blank">{article['title']}</a>"""
                     else:
                         title_str = f"""<p><span>{article['title']}</span>"""
 
@@ -68,8 +69,13 @@ with open('../pubs/articles/index.html') as articles_html:
                         notes_str = f"""</p><div class="small text-muted">{article['note']}</div>"""
 
                     pdf_str = ""
+                    mod_doi = 'x'
+                    if articles[i]['doi']:
+                        mod_doi = articles[i]['doi'].replace('/','-')
                     if path.exists(f"../pubs/articles/{len(articles)-i}.pdf"):
-                        pdf_str = f"""<a href="{len(articles)-i}.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>"""
+                        os.rename(f"../pubs/articles/{len(articles)-i}.pdf",f"../pubs/articles/{mod_doi}.pdf")
+                    if path.exists(f"../pubs/articles/{mod_doi}.pdf"):
+                        pdf_str = f"""<a href="{mod_doi}.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>"""
 
                     new_articles_html += f"""
 <tr><th scope="row">{len(articles) - i}</th><td>
