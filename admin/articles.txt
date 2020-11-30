@@ -1,3 +1,10 @@
+10.1038/s41578-020-00261-0
+Lithium-film ceramics for solid-state lithionic devices
+Y. Zhu, J.C. Gonzalez-Rosillo, M. Balaish, Z.D. Hood, K.J. Kim, J.L.M. Rupp
+Nature Review Materials
+s41578-020-00261-0
+2020
+
 10.1002/aenm.202002689
 Solid‐State Li–Metal Batteries: Challenges and Horizons of Oxide and Sulfide Solid Electrolytes and Their Interfaces
 K.J. Kim*, M. Balaish*, M. Wadaguchi, L. Kong, J.L.M Rupp
