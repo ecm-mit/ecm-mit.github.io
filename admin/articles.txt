@@ -2,7 +2,7 @@
 Lithium-film ceramics for solid-state lithionic devices
 Y. Zhu, J.C. Gonzalez-Rosillo, M. Balaish, Z.D. Hood, K.J. Kim, J.L.M. Rupp
 Nature Review Materials
-NO PAGES
+10.1038/s41578-020-00261-0
 2020
 
 10.1002/aenm.202002689
@@ -11,7 +11,7 @@ K.J. Kim*, M. Balaish*, M. Wadaguchi, L. Kong, J.L.M Rupp
 Advanced Energy Materials
 202002689
 2020
-* indicates joint first authorship. <br> This article is intended to become a chapter in the upcoming book "Transition Metal Oxides for Electrochemical Energy Storage" edited by J. Nanda and V. Augustyn (Wiley-VCH, 2021).
+* indicates joint first authorship.
 
 10.1039/d0ee02062a
 All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
