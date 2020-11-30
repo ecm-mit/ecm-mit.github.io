@@ -77,7 +77,8 @@ with open('../pubs/articles/index.html') as articles_html:
                     if path.exists(f"../pubs/articles/{mod_doi}.pdf"):
                         pdf_str = f"""<a href="{mod_doi}.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>"""
 
-                    new_articles_html += f"""
+                    if(article['pages'] != 'NO PAGES'):
+                        new_articles_html += f"""
 <tr><th scope="row">{len(articles) - i}</th><td>
     {title_str}<br>
     {article['authors']}<br>
@@ -85,6 +86,16 @@ with open('../pubs/articles/index.html') as articles_html:
     {notes_str}
 </td></tr>
 """
+                    else:
+                        new_articles_html += f"""
+<tr><th scope="row">{len(articles) - i}</th><td>
+    {title_str}<br>
+    {article['authors']}<br>
+    <span class="font-weight-bold">{article['journal']}</span> ({article['year']}) {pdf_str}
+    {notes_str}
+</td></tr>
+"""
+                    
                     i += 1
 
                 new_articles_html += '</tbody></table>\n'
