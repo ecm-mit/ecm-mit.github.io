@@ -17,7 +17,7 @@ Advanced Energy Materials
 All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
 K.J. Kim and J.L.M. Rupp
 Energy & Environmental Science
-in press
+13, 4930-4945
 2020
 
 10.1038/s41560-020-0597-6
@@ -82,7 +82,7 @@ ACS Applied Energy Materials
 Oxygen Exchange in Dual-phase La0.65Sr0.35MnO3-CeO2 Composites for Solar Thermochemical Fuel Production
 A.H. Bork, A.J. Carrillo, Z. Hood, B. Yildiz, J.L.M. Rupp
 ACS Applied Materials & Interfaces
-in press
+12, 29, 32622–32632
 2020
 
 10.1038/s41560-019-0384-4
