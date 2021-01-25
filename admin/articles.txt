@@ -6,10 +6,17 @@ Advanced Energy Materials
 2021
 <a href=https://onlinelibrary.wiley.com/toc/16146840/2021/11/1>Featured on the inside front cover</a> of Advanced Energy Materials. <br> *Joint first authorship.
 
-NO DOI
+10.1002/adfm.202005640
 Impact of Oxygen Non-stoichiometry on Near-Ambient Temperature Ionic Mobility in Polaronic Mixed-Ionic-Electronic Conducting Thin Films
 T. Defferriere,  D. Kalaev, J.L.M Rupp, H.L. Tuller
 Advanced Functional Materials
+202005640
+2021
+
+NO DOI
+Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
+E. Sediva, A. J. Carrillo, C. E. Halloran, J. L. M. Rupp
+ACS Applied Energy Materials 
 in press
 2021
 
@@ -48,7 +55,7 @@ J. C. Gonzalez-Rosillo, M. Balaish, Z. Hood, N. Nadkarni, D. Fraggedakis, K.J. K
 Advanced Materials
 1907465
 2020
-Highlighted in the Advanced Materials "Women in Materials Science" virtual issue.
+Highlighted in the Advanced Materials "Women in Materials Science" <a href="https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1521-4095.WomeninMaterialsScience" target="_blank">virtual issue</a>.
 
 10.1016/j.elecom.2020.106860
 Text Mining for Processing Conditions of Solid-State Battery Electrolytes
