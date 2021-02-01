@@ -1,3 +1,11 @@
+10.1038/s41560-020-00759-5
+Processing thin but robust electrolytes for solid-state batteries
+M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
+Nature Energy
+in press
+2021
+*Joint first authorship
+
 10.1002/aenm.202002689
 Solid‐State Li–Metal Batteries: Challenges and Horizons of Oxide and Sulfide Solid Electrolytes and Their Interfaces
 K.J. Kim*, M. Balaish*, M. Wadaguchi, L. Kong, J.L.M Rupp
@@ -13,7 +21,7 @@ Advanced Functional Materials
 202005640
 2021
 
-NO DOI
+10.1021/acsaem.0c02675
 Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
 E. Sediva, A. J. Carrillo, C. E. Halloran, J. L. M. Rupp
 ACS Applied Energy Materials 
