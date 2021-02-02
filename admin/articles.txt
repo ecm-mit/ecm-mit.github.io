@@ -2,7 +2,7 @@
 Processing thin but robust electrolytes for solid-state batteries
 M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
 Nature Energy
-in press
+10.1038/s41560-020-00759-5
 2021
 *Joint first authorship
 
