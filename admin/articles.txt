@@ -126,7 +126,7 @@ Advanced Materials
 Modifying La0.6Sr0.4MnO3 Perovskites with Cr Incorporation for Fast Isothermal CO2-Splitting Kinetics in Solar-Driven Thermochemical Cycles
 A.J. Carrillo, A.H. Bork, T. Moser, E. Sediva, Z.D. Hood, J.L.M. Rupp 
 Advanced Energy Materials
-1803886
+9, 28, 1803886
 2019
  
 10.1016/j.nanoen.2019.03.017
