@@ -28,6 +28,13 @@ Advanced Functional Materials
 202005640
 2021
 
+NO DOI
+Roadmap on inorganic perovskites for energy applications
+J. Irvine, J.L.M. Rupp, G. Liu, X. Xu, S. Haile, X. Qian, A. Snyder, R. Freer, D. Ekren, S. Skinner, O. Celikbilek, S. Chen, S. Tao, T.H. Shin, R. O'Hayre, J. Huang, C. Duan, M. Papac, S. Li, A. Russel, V. Celorrio, B. Hayden, H. Nolan, X. Huang, G. Wang, I. Metcalfe, D. Neagu, S. Martin
+Journal of Physics: Energy
+in press
+2021
+
 10.1021/acsaem.0c02675
 Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
 E. Sediva, A. J. Carrillo, C. E. Halloran, J. L. M. Rupp
