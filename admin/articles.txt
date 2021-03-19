@@ -4,7 +4,7 @@ M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
 Nature Energy
 10.1038/s41560-020-00759-5
 2021
-*Joint first authorship
+Press: <a href="https://techxplore.com/news/2021-03-advancements-solid-state-batteries.html" target="_blank">TechXplore</a><br>*Joint first authorship
 
 10.1002/aenm.202002689
 Solid‐State Li–Metal Batteries: Challenges and Horizons of Oxide and Sulfide Solid Electrolytes and Their Interfaces
@@ -39,7 +39,7 @@ in press
 Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
 E. Sediva, A. J. Carrillo, C. E. Halloran, J. L. M. Rupp
 ACS Applied Energy Materials 
-in press
+4, 2, 1474–1483
 2021
 
 10.1038/s41578-020-00261-0

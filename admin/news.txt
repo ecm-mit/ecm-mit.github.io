@@ -1,3 +1,7 @@
+Group's recent review on thin electrolytes for solid-state batteries featured in TechXplore
+Mar 19, 2021
+A recent <a href=https://www.nature.com/articles/s41560-020-00759-5 target="_blank">Nature Energy review</a> by Moran, Juan Carlos, Kun Joong, Yuntong, Zach, and Jennifer has been featured by TechXplore. The <a href="https://techxplore.com/news/2021-03-advancements-solid-state-batteries.html" target="_blank">article<a> highlights the team's commentary on the current status and future promise of thin electrolytes for solid-state batteries. 
+
 Dr. Yousra El Ajjouri named first 2020 fellow in the LILA-Material Science Mentoring Program
 Feb 9, 2021
 Dr. Yousra El Ajjouri has been named the first 2020 fellow in the LILA-Material Science Mentoring Program. Dr. El Ajjouri’s research centers on solid state ionics, material processing, and machine learning. More on Dr. El Ajjouri and the LILA program can be found <a href = "../opportunities/lila">here</a>.
