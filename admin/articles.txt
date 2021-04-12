@@ -46,8 +46,8 @@ ACS Applied Energy Materials
 Lithium-film ceramics for solid-state lithionic devices
 Y. Zhu, J.C. Gonzalez-Rosillo, M. Balaish, Z.D. Hood, K.J. Kim, J.L.M. Rupp
 Nature Review Materials
-10.1038/s41578-020-00261-0
-2020
+6, 313–331
+2021
 
 10.1039/d0ee02062a
 All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
