@@ -35,6 +35,14 @@ Journal of Physics: Energy
 in press
 2021
 
+NO DOI
+Careful Choices in Low Temperature Ceramic Processing and Slow Hydration Kinetics Can Affect Proton Conduction in Ceria
+P. Simons*, K.P. Torres*, J.L.M. Rupp
+Advanced Functional Materials
+in press
+2021
+*Joint first authorship.
+
 10.1021/acsaem.0c02675
 Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
 E. Sediva, A. J. Carrillo, C. E. Halloran, J. L. M. Rupp
@@ -47,7 +55,7 @@ Lithium-film ceramics for solid-state lithionic devices
 Y. Zhu, J.C. Gonzalez-Rosillo, M. Balaish, Z.D. Hood, K.J. Kim, J.L.M. Rupp
 Nature Review Materials
 6, 313–331
-2021
+2020
 
 10.1039/d0ee02062a
 All ceramic cathode composite design and manufacturing towards low interfacial resistance for garnet-based solid-state lithium batteries
