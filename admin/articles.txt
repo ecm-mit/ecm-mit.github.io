@@ -35,13 +35,20 @@ Journal of Physics: Energy
 in press
 2021
 
-NO DOI
+10.1002/adfm.202009630
 Careful Choices in Low Temperature Ceramic Processing and Slow Hydration Kinetics Can Affect Proton Conduction in Ceria
 P. Simons*, K.P. Torres*, J.L.M. Rupp
 Advanced Functional Materials
 in press
 2021
 *Joint first authorship.
+
+NO DOI
+Pt-catalyzed D-Glucose Oxidation Reactions for Glucose Fuel Cells
+J. Huang, P. Simons, Y. Sunada, J.L.M. Rupp, S. Yagi
+Journal of The Electrochemical Society
+in press
+2021
 
 10.1021/acsaem.0c02675
 Evaluating the Redox Behavior of Doped Ceria for Thermochemical CO2 Splitting Using Time-Resolved Raman Spectroscopy
