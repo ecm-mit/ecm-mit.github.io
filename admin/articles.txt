@@ -16,16 +16,23 @@ Advanced Energy Materials
 
 10.1002/adma.202100314
 Widening the Range of Trackable Environmental and Health Pollutants  for Li-Garnet-Based Sensors
-M. Balaish and J. L.M. Rupp
+M. Balaish and J.L.M. Rupp
 Advanced Materials
 2100314
+2021
+
+NO DOI
+Design of Triple and Quadruple Phase Boundaries and Chemistries for Environmental SO2 Electrochemical Sensing
+M. Balaish and J.L.M. Rupp
+Journal of Materials Chemistry A
+in press
 2021
 
 10.1002/adfm.202005640
 Impact of Oxygen Non-stoichiometry on Near-Ambient Temperature Ionic Mobility in Polaronic Mixed-Ionic-Electronic Conducting Thin Films
 T. Defferriere,  D. Kalaev, J.L.M Rupp, H.L. Tuller
 Advanced Functional Materials
-202005640
+2005640
 2021
 
 NO DOI
@@ -39,7 +46,7 @@ in press
 Careful Choices in Low Temperature Ceramic Processing and Slow Hydration Kinetics Can Affect Proton Conduction in Ceria
 P. Simons*, K.P. Torres*, J.L.M. Rupp
 Advanced Functional Materials
-in press
+2009630
 2021
 *Joint first authorship.
 
