@@ -71,9 +71,7 @@ with open('../pubs/articles/index.html') as articles_html:
                     pdf_str = ""
                     mod_doi = 'x'
                     if articles[i]['doi']:
-                        mod_doi = articles[i]['doi'].replace('/','-')
-                    if path.exists(f"../pubs/articles/{len(articles)-i}.pdf"):
-                        os.rename(f"../pubs/articles/{len(articles)-i}.pdf",f"../pubs/articles/{mod_doi}.pdf")
+                        mod_doi = articles[i]['doi'].replace('/','_')
                     if path.exists(f"../pubs/articles/{mod_doi}.pdf"):
                         pdf_str = f"""<a href="{mod_doi}.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>"""
 

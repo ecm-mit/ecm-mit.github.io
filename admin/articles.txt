@@ -50,11 +50,11 @@ Advanced Functional Materials
 2021
 *Joint first authorship.
 
-NO DOI
+10.1149/1945-7111/ac0949
 Pt-catalyzed D-Glucose Oxidation Reactions for Glucose Fuel Cells
 J. Huang, P. Simons, Y. Sunada, J.L.M. Rupp, S. Yagi
 Journal of The Electrochemical Society
-in press
+168, 6
 2021
 
 10.1021/acsaem.0c02675
