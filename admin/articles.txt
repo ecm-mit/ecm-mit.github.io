@@ -2,7 +2,7 @@
 Processing thin but robust electrolytes for solid-state batteries
 M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
 Nature Energy
-10.1038/s41560-020-00759-5
+6, 227–239
 2021
 Press: <a href="https://techxplore.com/news/2021-03-advancements-solid-state-batteries.html" target="_blank">TechXplore</a><br>*Joint first authorship
 
@@ -25,7 +25,7 @@ Advanced Materials
 Design of Triple and Quadruple Phase Boundaries and Chemistries for Environmental SO2 Electrochemical Sensing
 M. Balaish and J.L.M. Rupp
 Journal of Materials Chemistry A
-in press
+9, 14691-14699 
 2021
 
 10.1002/adfm.202005640
@@ -35,11 +35,11 @@ Advanced Functional Materials
 2005640
 2021
 
-NO DOI
+10.1088/2515-7655/abff18
 Roadmap on inorganic perovskites for energy applications
 J. Irvine, J.L.M. Rupp, G. Liu, X. Xu, S. Haile, X. Qian, A. Snyder, R. Freer, D. Ekren, S. Skinner, O. Celikbilek, S. Chen, S. Tao, T.H. Shin, R. O'Hayre, J. Huang, C. Duan, M. Papac, S. Li, A. Russel, V. Celorrio, B. Hayden, H. Nolan, X. Huang, G. Wang, I. Metcalfe, D. Neagu, S. Martin
 Journal of Physics: Energy
-in press
+3, 031502
 2021
 
 10.1002/adfm.202009630
