@@ -1,3 +1,11 @@
+10.1038/s41563-021-01181-2
+Photo-enhanced ionic conductivity across grain boundaries in polycrystalline ceramics
+T. Defferriere, D. Klotz, J.C. Gonzalez-Rosillo, J.L.M. Rupp, H.L. Tuller
+Nature Materials
+in press
+2022
+Press: <a href="https://mrl.mit.edu/index.php/component/k2/434-light-could-boost-performance-of-fuel-cells-lithium-batteries-and-other-devices" target="_blank">MRL News</a>
+
 10.1038/s41560-020-00759-5
 Processing thin but robust electrolytes for solid-state batteries
 M. Balaish*, J.C. Gonzalez-Rosillo*, K.J. Kim, Y. Zhu, Z.D. Hood, J.L.M. Rupp
