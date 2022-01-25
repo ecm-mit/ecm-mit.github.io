@@ -147,5 +147,10 @@ a.ecm-primary:hover {
   width: 100%;
 }
 
+.alert-bar {
+  margin-top: 57px;
+  background-color: #CE5D15;
+
+}
 
 
